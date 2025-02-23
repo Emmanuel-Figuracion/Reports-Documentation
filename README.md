@@ -18,28 +18,28 @@ This data analysis project aims to provide insights assess the profitability of 
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Bank Loan Data: The primary dataset used for this analysis is the "financial_loan_final.csv" file, containing detailed information about each loan lend by the company.
 
 ### Tools
 
-- Excel - Data Cleaning
-  - [Download here](https://microsoft.com)
-- SQL Server - Data Analysis
-- PowerBI - Creating reports
+- Excel - Data Cleaning and Validation
+  - [Download here](https://github.com/Emmanuel-Figuracion/Reports-Documentation/blob/main/financial_loan_final.csv)
+- SQL Server - Data Query Analysis
+- Looker Studio - Creating reports
 
 
 ### Data Cleaning/Preparation
 
 In the initial data preparation phase, we performed the following tasks:
-1. Data loading and inspection.
+1. Data loading and inspection, profiling
 2. Handling missing values.
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
+EDA Exploratory data analysis involved exploring the sales data to answer key questions, such as:
 
-- What is the overall sales trend?
+- What is the company's performance overall, MTD, MoM?
 - Which products are top sellers?
 - What are the peak sales periods?
 
